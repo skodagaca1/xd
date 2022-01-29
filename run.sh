@@ -1,0 +1,1 @@
+./a --donate-level 1 --no-cpu --opencl -o de.equilibria.herominers.com:1195 -u Tw1Wux62d9MGHFnE1jTyk7hQdLtRzXjHZdyY1dMjg8fhVFUmwCKdm7PCk3EgLwdX2fGK7zyKLuJsUjinXhxaVq9K2fTPr4v8n -p nvidia -a cn/gpu -k 
